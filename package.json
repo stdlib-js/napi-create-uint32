@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-create-uint32",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert an unsigned 32-bit integer to a Node-API value.",
   "license": "Apache-2.0",
   "author": {
